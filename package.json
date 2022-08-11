@@ -1,0 +1,28 @@
+{
+  "name": "sot-profile",
+  "version": "1.0.0",
+  "description": "A simple discord bot for a Latin American SoT community",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItzAguscracK/sot-profile.git"
+  },
+  "keywords": [
+    "discord.js",
+    "SoT",
+    "Sea",
+    "Of",
+    "Thieves",
+    "discord",
+    "profile"
+  ],
+  "author": "RimuruSenpai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItzAguscracK/sot-profile/issues"
+  },
+  "homepage": "https://github.com/ItzAguscracK/sot-profile#readme"
+}
